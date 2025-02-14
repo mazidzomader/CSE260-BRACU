@@ -8,5 +8,7 @@ This course is taught by our esteemed instructors:
 - **Theory:** Mr. Mohammed Ashfaqul Haque **(AFQ)**  
 - **Laboratory:** Ms. Mahjabin Chowdhury **(MCW)** and Mr. Soumitra Das **(SMD)**  
 
+## Find the tentative lesson plan [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMENPp2LcnOqHbaYz5HLnJhv-G6fteT7POC7gqQf8KYmxwsRMYlprHz35nzR43IesZoitgqCOcFKjZ/pubhtml)
 Best regards,
+
 **Abdullah Al Mazid Zomader**  
