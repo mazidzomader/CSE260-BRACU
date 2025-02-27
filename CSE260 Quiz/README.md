@@ -1,1 +1,1 @@
-# Assignment problems vary depending on the faculty.
+# Quiz vary depending on the faculty.
