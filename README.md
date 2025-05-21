@@ -12,3 +12,7 @@ This course is taught by our esteemed instructors:
 Best regards,
 
 **Abdullah Al Mazid Zomader**  
+
+
+## 📢Notice
+With the end of the semester, the author is declaring the discontinuation of the update of this respiratory. ***21/05/2025***
